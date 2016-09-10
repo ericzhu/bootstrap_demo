@@ -1,0 +1,44 @@
+body {
+	
+	font-family: Arial, Helvetica, "Hiragino Kaku Gothic ProN", "Meiryo UI", Simhei, sans-serif;
+	
+}
+
+.navbar-default {
+	background-color: #FFF;
+    border: none;
+    box-shadow: 0px 2px 8px 0px rgba(50,50,50,0.25);
+}
+
+.navbar-default .navbar-brand {
+	font-size: 28px;
+    font-weight: bolder;
+    color: #40D2B1;
+	
+	height: 70px;
+    line-height: 35px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #666;
+    font-size: 18px;
+    font-weight: bold;
+    height: 70px;
+    line-height: 35px;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #40d2b1;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #1a4c41;
+}
+
+.navbar-toggle {
+    margin-top: 18px;
+}
+
+.navbar-nav>li>a {
+    padding-top: 19px;
+}
